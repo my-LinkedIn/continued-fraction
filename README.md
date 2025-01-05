@@ -1,5 +1,5 @@
 # continued-fraction
 
-Port of a Continued Fraction Rust from https://github.com/fatesc/continued-fraction program to D
+D Port of a Continued Fraction Rust code from https://github.com/fatesc/continued-fraction
 
 Attribution: [@fatesc](https://github.com/fatesc)
